@@ -2,7 +2,7 @@
 
 Full-stack PHP 8 + MySQL (PDO) web app for a small café: customers browse drinks, build a cart and place orders, staff run the menu and orders, admins manage users and see the audit log.
 
-**Live site:** _add your public URL here_  ·  **Repo:** https://github.com/apon066-m/morrow_coffee
+**Live site:** https://morrowcafe.freepage.cc/  ·  **Repo:** https://github.com/apon066-m/morrow_coffee
 
 ## Setup (XAMPP)
 1. Copy this folder into `htdocs`, start Apache + MySQL.
